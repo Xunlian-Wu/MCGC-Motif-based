@@ -1,4 +1,4 @@
-# MCGC for AAAI25
+# Motif-based Contrastive Graph Clustering with Clustering-Oriented Prompt
 
 
 
